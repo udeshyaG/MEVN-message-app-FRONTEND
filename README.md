@@ -1,24 +1,9 @@
-# client
+## [Click Here](https://goofy-raman-cf1b48.netlify.app/) to view app 😊😊
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Tech Used
+  - Vue JS (front End Framework)  🌟
+  - Node JS with express (Back End)  🌟
+  - Heroku (for deploying the backend) 🚀
+  - MongoDB (database)
+  - Netlify (to deploy the front end)  🚀
+  - Bootstrap (design)
